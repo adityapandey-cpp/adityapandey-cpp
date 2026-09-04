@@ -18,5 +18,5 @@
 <h3 align="center">🟡 My GitHub Contribution Pacman</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityapandey-cpp/adityapandey-cpp/gh-pages/pacman-contribution-graph.svg" alt="Pacman contribution graph">
+  <img src="https://raw.githubusercontent.com/adityapandey-cpp/adityapandey-cpp/output/pacman-contribution-graph.svg" alt="Pacman contribution graph">
 </p>
